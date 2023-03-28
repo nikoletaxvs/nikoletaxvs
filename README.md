@@ -3,16 +3,16 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47kpahg6zb9fxel8gn3b6u2u0l54qe7xp0y0g1j3nr&rid=giphy.gif&ct=g">
 
 
-- 🔭 I’m currently working on my **thesis on Web Development
- with .Net 6.0 ,Entity Fremework, and MVC architecture**
+- 🔭 I’m currently working on my **thesis on Web Development**
+ with .Net 6.0 ,Entity Fremework, and MVC architecture
 
 - 🌱 I’m currently studying at **Univeristy of Piraeus**
 
-- 👯 I’m looking to collaborate on **with web development companies**
+- 👯 I’m looking to **collaborate** on with web development companies
 
 - 📫 How to reach me **nikoletaxvs@gmail.com**
 
-- ⚡ Fun fact **My zz-plant will soon be taller than me.**
+- ⚡ Fun fact -> My zz-plant will soon be taller than me.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
