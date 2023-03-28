@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikoleta Vlachou</h1>
 <h3 align="center">A passionate web developer from Greece</h3>
-<img style="padding:10px;margin-left:15px;" align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47kpahg6zb9fxel8gn3b6u2u0l54qe7xp0y0g1j3nr&rid=giphy.gif&ct=g">
+<img style="padding-left: 80px;" align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47kpahg6zb9fxel8gn3b6u2u0l54qe7xp0y0g1j3nr&rid=giphy.gif&ct=g">
 
 
 - 🔭 I’m currently working on my **thesis on Web Development**
