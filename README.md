@@ -6,7 +6,8 @@
 
 - 🌱 Will soon graduate from **Univeristy of Piraeus**
 
-- 📫 How to reach me **nikoletaxvs@gmail.com**
+- 📫 How to reach me <a href="www.linkedin.com/in/nikoleta-vlachou-sakellariou-computer-science-web-development-frontend-backend-fullstack" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+[![Gmail Badge](https://img.shields.io/badge/-nikoletaxvs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikoletaxvs@gmail.com)](mailto:nikoletaxvs@gmail.com)
 
 - ⚡ Fun fact -> My zz-plant will soon be taller than me.
   
@@ -31,7 +32,6 @@
 Orient is a career guidance platform for IT graduates and seniors to help them in their professional development. The platform consists of educational content divided into modules related to IT disciplines and a system of career suggestions. It also provides a realtime chat in order to increase user participation and experience.
 Technologies used: ASP.NET 6, Bootstrap, Entity Framwork, SQLServer2019, SignalR
 <img src="https://i.ibb.co/5sKMvdW/Screenshot-2023-08-15-021135.png" alt="Background" border="0">
-<i>Follow me around the web:</i><br>
 
-<a href="www.linkedin.com/in/nikoleta-vlachou-sakellariou-computer-science-web-development-frontend-backend-fullstack" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-[![Gmail Badge](https://img.shields.io/badge/-nikoletaxvs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikoletaxvs@gmail.com)](mailto:nikoletaxvs@gmail.com)
+
+
