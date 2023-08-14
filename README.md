@@ -27,7 +27,7 @@
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<h3 align="left">Projects I enjoyed the most:</h3>
+<h3 align="left">Projects I have enjoyed the most:</h3>
 <h4>Orient - MVC application</h4>
 Orient is a career guidance platform for IT graduates and seniors to help them in their professional development. The platform consists of educational content divided into modules related to IT disciplines and a system of career suggestions. It also provides a realtime chat in order to increase user participation and experience.
 Technologies used: ASP.NET 6, Bootstrap, Entity Framwork, SQLServer2019, SignalR
