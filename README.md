@@ -30,7 +30,7 @@
 <h3 align="left">Projects I have enjoyed the most:</h3>
 <h4>Orient - MVC application</h4>
 Orient is a career guidance platform for IT graduates and seniors to help them in their professional development. The platform consists of educational content divided into modules related to IT disciplines and a system of career suggestions. It also provides a realtime chat in order to increase user participation and experience.
-Technologies used: ASP.NET 6, Bootstrap, Entity Framwork, SQLServer2019, SignalR
+Technologies used: ASP.NET 6, Bootstrap, Entity Framwork, SQLServer2019, SignalR,JavaScript
 <img src="https://i.ibb.co/5sKMvdW/Screenshot-2023-08-15-021135.png" alt="Background" border="0">
 
 
