@@ -2,14 +2,14 @@
 
 
 - 🔭 Currently working on my **thesis on Web Development**
- with .Net 6.0 ,Entity Fremework, and MVC architecture
+ with .Net 6.0 ,Entity Fremework, and MVC architectur
 
 - 🌱 Will soon graduate from **Univeristy of Piraeus**
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/nikoleta-vlachou-sakellariou-computer-science-web-development-frontend-backend-fullstack/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-[![Gmail Badge](https://img.shields.io/badge/-nikoletaxvs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikoletaxvs@gmail.com)](mailto:nikoletaxvs@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-nikoletaxvs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikoletaxvs@gmail.com)](mailto:nikoletaxvs@gmail.com) 
 
-- ⚡ Fun fact -> Will not debug with print statements (pinky promise).
+- ⚡ Fun fact -> Will not debug with print statements (pinky promise)
   
 
 
