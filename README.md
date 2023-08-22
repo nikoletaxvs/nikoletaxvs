@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I+am+Nikoleta+and+this+is+my+GitHub.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi+I+am+Nikoleta+and+this+is+my+GitHub.)](https://git.io/typing-svg)
 
 
 - 🔭 Currently working on my **thesis on Web Development**
- with .Net 6.0 ,Entity Fremework, and MVC architectur
+ with .Net 6.0 ,Entity Fremework, and MVC architecture
 
-- 🌱 Will soon graduate from **Univeristy of Piraeus**
+- 🌱 Will soon graduate from **University of Piraeus**
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/nikoleta-vlachou-sakellariou-computer-science-web-development-frontend-backend-fullstack/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 [![Gmail Badge](https://img.shields.io/badge/-nikoletaxvs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikoletaxvs@gmail.com)](mailto:nikoletaxvs@gmail.com) 
@@ -29,8 +29,8 @@
 <h3 align="left">Projects I have enjoyed the most:</h3>
 <h4>Orient - MVC application</h4>
 Orient is a career guidance platform for IT graduates and seniors to help them in their professional development. The platform consists of educational content divided into modules related to IT disciplines and a system of career suggestions. It also provides a realtime chat in order to increase user participation and experience.
-Technologies used: ASP.NET 6, Bootstrap, Entity Framwork, SQLServer2019, SignalR,JavaScript
-<img src="https://i.ibb.co/5sKMvdW/Screenshot-2023-08-15-021135.png" alt="Background" border="0">
+Technologies used: ASP.NET 6, Bootstrap, Entity Framework, SQLServer2019, SignalR,JavaScript
 
+![image](https://github.com/nikoletaxvs/nikoletaxvs/assets/60019367/e5ac5e87-7053-42d3-80a0-fe0f2a12f941)
 
 
