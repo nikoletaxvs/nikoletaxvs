@@ -40,6 +40,7 @@ Technologies used: ASP.NET 6, Bootstrap, Entity Framework, SQLServer2019, Signal
     • Collaborated closely with a journalist to understand her workflow.
     • Significantly reduced report compilation time, enhancing overall productivity for her team.
     • Features implemented: automatic article detection, list management, and quick report compilation.
+    
 ![Frame 1](https://github.com/nikoletaxvs/nikoletaxvs/assets/60019367/c1fc2b32-e689-4f05-9fa0-628a784afa32)
 
 
