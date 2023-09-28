@@ -30,9 +30,17 @@
 
 <h3 align="left">Projects I have enjoyed the most:</h3>
 <h4>Orient - MVC application</h4>
-Orient is a career guidance platform for IT graduates and seniors to help them in their professional development. The platform consists of educational content divided into modules related to IT disciplines and a system of career suggestions. It also provides a realtime chat in order to increase user participation and experience.
-Technologies used: ASP.NET 6, Bootstrap, Entity Framework, SQLServer2019, SignalR,JavaScript
+<p>Orient is a career guidance platform for IT graduates and seniors to help them in their professional development. The platform consists of educational content divided into modules related to IT disciplines and a system of career suggestions. It also provides a realtime chat in order to increase user participation and experience.
+Technologies used: ASP.NET 6, Bootstrap, Entity Framework, SQLServer2019, SignalR,JavaScript</p>
 
 ![image](https://github.com/nikoletaxvs/nikoletaxvs/assets/60019367/e5ac5e87-7053-42d3-80a0-fe0f2a12f941)
+
+<h4>Article Report Maker (Chrome Extension)</h4>
+ Voluntarily contributed to the development of the Article Report Maker chrome extension for a team of professional journalists.                                                
+    • Collaborated closely with a journalist to understand her workflow.
+    • Significantly reduced report compilation time, enhancing overall productivity for her team.
+    • Features implemented: automatic article detection, list management, and quick report compilation.
+![Frame 1](https://github.com/nikoletaxvs/nikoletaxvs/assets/60019367/c1fc2b32-e689-4f05-9fa0-628a784afa32)
+
 
 
