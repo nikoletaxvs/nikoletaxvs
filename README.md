@@ -2,7 +2,7 @@
 
 
 - 🔭 Currently working on my **thesis on Web Development**
- with .Net 6.0 ,Entity Fremework, and SQL Server 2019
+ with .Net 7.0 ,Entity Fremework, and SQL Server 2019
 
 - 🌱 Will soon graduate from **University of Piraeus**
   
