@@ -32,12 +32,13 @@
  <p>Voluntarily contributed to the development of the <a href="https://chrome.google.com/webstore/detail/eirinika-report-maker/hlfohnplnkgbnpmipcmdafaddlddcgcm" target="_blank">Article Report Maker</a> chrome extension for a team of professional journalists.
   <ul>
     <li> Collaborated closely with a journalist to understand her workflow.</li>
-    <li>Significantly reduced report compilation time, enhancing overall productivity for her team.</li>
+    <li>Significantly reduced the time of report writing by 95%, overall improving the productivity of her team.</li>
     <li>Features implemented: automatic article detection, list management, and quick report compilation.</li>
   </ul>
  </p>
-<img width='600' src='https://github.com/nikoletaxvs/nikoletaxvs/assets/60019367/64c8f95f-06f5-4afe-8cf7-595bad166c7e'/>
-
+<img width='400' src='https://github.com/nikoletaxvs/nikoletaxvs/assets/60019367/64c8f95f-06f5-4afe-8cf7-595bad166c7e'/>
+<h5>Daily Users Since Release</h5>
+<img width='600' src="https://github.com/nikoletaxvs/Article-Report-Maker-Chrome-Extension/assets/60019367/fa63f5e2-7cc9-4b01-ab70-8da195555799" />
 <h4>Orient - MVC application</h4>
 <p>Orient is a career guidance platform for IT graduates and seniors to help them in their professional development. The platform consists of educational content divided into modules related to IT disciplines and a system of career suggestions. It also provides a realtime chat in order to increase user participation and experience.
 Technologies used: ASP.NET 6, Bootstrap, Entity Framework, SQLServer2019, SignalR,JavaScript</p>
