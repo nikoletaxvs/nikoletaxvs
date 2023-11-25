@@ -38,7 +38,9 @@
  </p>
 <img width='400' src='https://github.com/nikoletaxvs/nikoletaxvs/assets/60019367/64c8f95f-06f5-4afe-8cf7-595bad166c7e'/>
 <h5>Daily Users Since Release</h5>
-<img width='600' src="https://github.com/nikoletaxvs/Article-Report-Maker-Chrome-Extension/assets/60019367/fa63f5e2-7cc9-4b01-ab70-8da195555799" />
+<img width='600' src="https://github.com/nikoletaxvs/nikoletaxvs/assets/60019367/0ea2a9d9-1705-4026-8873-963c06fe45cb" />
+
+
 <h4>Orient - MVC application</h4>
 <p>Orient is a career guidance platform for IT graduates and seniors to help them in their professional development. The platform consists of educational content divided into modules related to IT disciplines and a system of career suggestions. It also provides a realtime chat in order to increase user participation and experience.
 Technologies used: ASP.NET 6, Bootstrap, Entity Framework, SQLServer2019, SignalR,JavaScript</p>
