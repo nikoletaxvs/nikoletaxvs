@@ -38,7 +38,9 @@
  </p>
 <img width='400' src='https://github.com/nikoletaxvs/nikoletaxvs/assets/60019367/64c8f95f-06f5-4afe-8cf7-595bad166c7e'/>
 <h5>Daily Users Since Release</h5>
-<img width='600' src="https://github.com/nikoletaxvs/nikoletaxvs/assets/60019367/0ea2a9d9-1705-4026-8873-963c06fe45cb" />
+<img width='600' src="https://github.com/nikoletaxvs/nikoletaxvs/assets/60019367/c7443f72-de45-420d-ba2e-e268e96b1c52" />
+
+
 
 
 <h4>Orient - MVC application</h4>
