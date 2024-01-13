@@ -29,7 +29,7 @@
 
 <h3 align="left">Projects I have enjoyed the most:</h3>
 <h4>Article Report Maker (Chrome Extension)</h4>
- <p>Voluntarily contributed to the development of the <a href="https://chrome.google.com/webstore/detail/eirinika-report-maker/hlfohnplnkgbnpmipcmdafaddlddcgcm" target="_blank">Article Report Maker</a> chrome extension for a team of professional journalists.
+ <p>Voluntarily conducted the development of the <a href="https://chrome.google.com/webstore/detail/eirinika-report-maker/hlfohnplnkgbnpmipcmdafaddlddcgcm" target="_blank">Article Report Maker</a> chrome extension for a team of professional journalists.
   <ul>
     <li> Collaborated closely with a journalist to understand her workflow.</li>
     <li>Significantly reduced the time of report writing by 95%, overall improving the productivity of her team.</li>
