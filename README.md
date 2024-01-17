@@ -54,7 +54,7 @@ Technologies used: ASP.NET 6, Bootstrap, Entity Framework, SQLServer2019, Signal
 
 <img width='600' src='https://github.com/nikoletaxvs/nikoletaxvs/assets/60019367/e5ac5e87-7053-42d3-80a0-fe0f2a12f941' />
 
-<h4>Unifood - ASP.NET 7 MVC [Upcoming]</h4>
+<h4>Unifood - ASP.NET 7 MVC</h4>
 <p>Unifood is a canteen menu creation and evaluation system.
 <ul>
     <li>Ensures secure Authentication & Authorization through ASP.NET Identity.</li>
