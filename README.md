@@ -38,7 +38,7 @@
  </p>
 <img width='400' src='https://github.com/nikoletaxvs/nikoletaxvs/assets/60019367/64c8f95f-06f5-4afe-8cf7-595bad166c7e'/>
 <h5>Daily Users Since Release</h5>
-<img width='600' src="https://github.com/nikoletaxvs/nikoletaxvs/assets/60019367/c7443f72-de45-420d-ba2e-e268e96b1c52" />
+<img width='600' src="https://github.com/nikoletaxvs/Article-Report-Maker-Chrome-Extension/assets/60019367/b460109c-8841-4e42-9c2e-63b887e0120d" />
 
 
 
