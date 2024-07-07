@@ -1,12 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi+I+am+Nikoleta+and+this+is+my+GitHub.)](https://git.io/typing-svg)
 
+-💼 Fullstack Developer/System Engineer at a leading pharmaceutical company, collaborating across departments to fulfill diverse technical needs.
 
-- 🔭 Currently working on my **thesis on Web Development**
- with .Net 7.0 ,Entity Fremework, and SQL Server 2019
+-🎓 Recent Computer Science graduate from University of Piraeus.
 
-- 🌱 Will soon graduate from **University of Piraeus**
-  
-- 🤝 Committed to creating, coding, and helping others.
+-🔭 Currently leveraging my skills in TypeScript,HTMX and SQL to drive innovative solutions.
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/nikoleta-vlachou-sakellariou-computer-science-web-development-frontend-backend-fullstack/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 [![Gmail Badge](https://img.shields.io/badge/-nikoletaxvs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikoletaxvs@gmail.com)](mailto:nikoletaxvs@gmail.com) 
