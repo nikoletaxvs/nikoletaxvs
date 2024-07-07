@@ -4,7 +4,7 @@
 
 -🎓 Recent Computer Science graduate from University of Piraeus.
 
--🔭 Currently leveraging my skills in TypeScript,HTMX and SQL to drive innovative solutions.
+-🔭 Currently leveraging my skills in TypeScript, Node.js and SQL to drive innovative solutions.
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/nikoleta-vlachou-sakellariou-computer-science-web-development-frontend-backend-fullstack/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 [![Gmail Badge](https://img.shields.io/badge/-nikoletaxvs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikoletaxvs@gmail.com)](mailto:nikoletaxvs@gmail.com) 
@@ -16,12 +16,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"></a> 
-
+  </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> </a>
   </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="mssql" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=currentColor" alt="mssql" width="40" height="40"/> </a>
 
 
 
