@@ -2,7 +2,7 @@
 
 -💼 Fullstack Developer/System Engineer at a leading pharmaceutical company, collaborating across departments to fulfill diverse technical needs.
 
--🎓 Recent Computer Science graduate from University of Piraeus.
+-🎓 Recent Computer Science graduate from University of Piraeus, with a thesis focused on developing a fullstack <b>C# .NET 0.6 MVC</b> application.
 
 -🔭 Currently leveraging my skills in TypeScript, Node.js and SQL to drive innovative solutions.
 
