@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi+I+am+Nikoleta+and+this+is+my+GitHub.)](https://git.io/typing-svg)
+- 💼 **Junior IT Consultant | Software Engineer** at **Netcompany-Intrasoft**, contributing to the development of custom applications and ensuring efficient, scalable software solutions.  
 
--💼 Fullstack Developer/System Engineer at a leading pharmaceutical company, collaborating across departments to fulfill diverse technical needs.
+- 🎓 B.Sc. in Computer Science from the **University of Piraeus**, with a thesis focused on creating a fullstack web application.  
 
--🎓 Recent Computer Science graduate from University of Piraeus, with a thesis focused on developing a fullstack <b>C# .NET 0.7 MVC</b> application.
+- 🔭 Enthusiastic about using modern technologies like **JavaScript/TypeScript**, **Java**, and various database systems to solve complex problems and deliver value.  
 
--🔭 Currently leveraging my skills in TypeScript, Node.js and SQL to drive innovative solutions.
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/nikoleta-vlachou-sakellariou-computer-science-web-development-frontend-backend-fullstack/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/vlachou-nikoleta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 [![Gmail Badge](https://img.shields.io/badge/-nikoletaxvs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikoletaxvs@gmail.com)](mailto:nikoletaxvs@gmail.com) 
 
 
@@ -18,12 +18,13 @@
 <p align="left"></a> 
   </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> </a>
   </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="mssql" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=currentColor" alt="mssql" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" alt="mssql" width="40" height="40"/> </a>
+   <a href="" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor" alt="mssql" width="40" height="40"/> </a>
+
 
 
 
