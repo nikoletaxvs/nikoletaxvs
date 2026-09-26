@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi+I+am+Nikoleta+and+this+is+my+GitHub.)](https://git.io/typing-svg)
-- 💼 **Junior IT Consultant | Software Engineer** at **Netcompany-Intrasoft**, contributing to the development of custom applications and ensuring efficient, scalable software solutions.  
+- 💼 **Associate Technology Consultant | Software Engineer** at **Netcompany**, contributing to the development of custom applications and ensuring efficient, scalable software solutions.  
 
 - 🎓 B.Sc. in Computer Science from the **University of Piraeus**, with a thesis focused on creating a fullstack web application.  
 
