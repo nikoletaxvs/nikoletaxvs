@@ -1,68 +1,49 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi+I+am+Nikoleta+and+this+is+my+GitHub.)](https://git.io/typing-svg)
-- 💼 **Associate Technology Consultant | Software Engineer** at **Netcompany**, contributing to the development of custom applications and ensuring efficient, scalable software solutions.  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=520&lines=Hi%2C+I'm+Nikoleta+%F0%9F%91%8B;Frontend+engineer+%C2%B7+React+Native+%C2%B7+TypeScript)](https://git.io/typing-svg)
 
-- 🎓 B.Sc. in Computer Science from the **University of Piraeus**, with a thesis focused on creating a fullstack web application.  
+- 💼 **Frontend Engineer (React Native)** at **Netcompany**, working on Vodafone's Travel eSIM app, used by 100K+ people worldwide. I build features end to end: REST integration, Redux state, Integrate Contentful content and the UI itself.
+- 🧰 Before that, **IT Systems Engineer** at **Pharmaserve-Lilly**, building internal tools and automations with Node.js, TypeScript, PostgreSQL and SQL Server.
+- 🎓 B.Sc. in Computer Science, **University of Piraeus**.
+- 🌱 Currently growing towards frontend and full-stack work where product quality and UX matter most.
+- 📫 <a href="https://www.linkedin.com/in/vlachou-nikoleta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:nikoletaxvs@gmail.com"><img src="https://img.shields.io/badge/-nikoletaxvs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 
-- 🔭 Enthusiastic about using modern technologies like **JavaScript/TypeScript**, **Java**, and various database systems to solve complex problems and deliver value.  
-
-
-- 📫 How to reach me <a href="https://www.linkedin.com/in/vlachou-nikoleta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-[![Gmail Badge](https://img.shields.io/badge/-nikoletaxvs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikoletaxvs@gmail.com)](mailto:nikoletaxvs@gmail.com) 
-
-
-  
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"></a> 
-  </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> </a>
-  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="mssql" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" alt="mssql" width="40" height="40"/> </a>
-   <a href="" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor" alt="mssql" width="40" height="40"/> </a>
-
-
-
-
-<h3 align="left">Projects I have enjoyed the most:</h3>
-<h4>Article Report Maker (Chrome Extension)</h4>
- <p>Voluntarily conducted the development of the <a href="https://chrome.google.com/webstore/detail/eirinika-report-maker/hlfohnplnkgbnpmipcmdafaddlddcgcm" target="_blank">Article Report Maker</a> chrome extension for a team of professional journalists.
-  <ul>
-    <li> Collaborated closely with a journalist to understand her workflow.</li>
-    <li>Significantly reduced the time of report writing by 95%, overall improving the productivity of her team.</li>
-    <li>Features implemented: automatic article detection, list management, and quick report compilation.</li>
-  </ul>
- </p>
-<img width='400' src='https://github.com/nikoletaxvs/nikoletaxvs/assets/60019367/64c8f95f-06f5-4afe-8cf7-595bad166c7e'/>
-<h5>Daily Users Since Release</h5>
-<img width='600' src="https://github.com/nikoletaxvs/Article-Report-Maker-Chrome-Extension/assets/60019367/b460109c-8841-4e42-9c2e-63b887e0120d" />
-
-
-
-
-<h4>Orient - MVC application</h4>
-<p>Orient is a career guidance platform for IT graduates and seniors to help them in their professional development. 
- <ul>
-  <li> It provides a realtime chat in order to increase user participation and experience.</li>
-  <li>The platform consists of educational content divided into modules related to IT disciplines and a system of career suggestions.</li>
- </ul>
- 
-Technologies used: ASP.NET 6, Bootstrap, Entity Framework, SQLServer2019, SignalR,JavaScript</p>
-
-<img width='600' src='https://github.com/nikoletaxvs/nikoletaxvs/assets/60019367/e5ac5e87-7053-42d3-80a0-fe0f2a12f941' />
-
-<h4>Unifood - ASP.NET 7 MVC</h4>
-<p>Unifood is a canteen menu creation and evaluation system.
-<ul>
-    <li>Ensures secure Authentication & Authorization through ASP.NET Identity.</li>
-    <li>Utilizes Entity Framework for efficient data access and management.</li>
-    <li>Implements dependency injection and repository pattern for enhanced flexibility.</li>
-</ul>
+<h3>Tools I use</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React / React Native" title="React / React Native" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" title="SQL Server" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="36" height="36"/>
 </p>
-<img width='600' src='https://github.com/nikoletaxvs/nikoletaxvs/assets/60019367/9228a031-3c61-492e-b248-651739588155' />
 
+<h3>Projects</h3>
 
+<h4><a href="https://github.com/nikoletaxvs/merio">Merio</a>: shared subscription payments</h4>
+<p>My family splits a Spotify plan, so I built a small app to keep track of who has paid this month. Each member gets a monthly payment, a personal link to mark it paid, and email reminders until they do.</p>
+<ul>
+  <li>Next.js 16 (App Router, server actions), React 19, TypeScript, Tailwind CSS, Postgres with Drizzle, deployed on Vercel with scheduled cron jobs.</li>
+  <li>Unit tests and CI with GitHub Actions. Testing the billing-period date logic caught a real month-end billing bug.</li>
+  <li>Public demo runs as a separate deployment with sample data, nightly resets and email disabled, so the real data stays private.</li>
+</ul>
+<!-- TODO: add the demo link once it has a permanent domain, e.g. <a href="https://merio-demo.vercel.app/demo">Live demo</a> -->
+<img width="600" src="https://github.com/nikoletaxvs/merio/raw/main/docs/dashboard.png" alt="Merio owner dashboard"/>
+
+<h4>Article Report Maker (Chrome extension)</h4>
+<p>I volunteered to build the <a href="https://chrome.google.com/webstore/detail/eirinika-report-maker/hlfohnplnkgbnpmipcmdafaddlddcgcm" target="_blank">Article Report Maker</a> Chrome extension for a team of professional journalists.</p>
+<ul>
+  <li>Worked closely with a journalist to understand how her team wrote reports.</li>
+  <li>Cut report-writing time by about 95% with automatic article detection, list management and one-click report compilation.</li>
+</ul>
+<img width="400" src="https://github.com/nikoletaxvs/nikoletaxvs/assets/60019367/64c8f95f-06f5-4afe-8cf7-595bad166c7e" alt="Article Report Maker"/>
+<h5>Daily users since release</h5>
+<img width="600" src="https://github.com/user-attachments/assets/92572b1f-b7db-44b0-afc0-6b496aa01ab3" alt="Daily users chart"/>
+
+<h4>Earlier (university)</h4>
+<ul>
+  <li><b>Orient</b>: career-guidance platform with real-time chat (ASP.NET 6, SignalR, SQL Server)</li>
+  <li><b>Unifood</b>: canteen menu and rating system, my thesis (ASP.NET 7, Identity, EF)</li>
+</ul>
