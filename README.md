@@ -31,6 +31,7 @@
 </ul>
 <!-- TODO: add the demo link once it has a permanent domain, e.g. <a href="https://merio-demo.vercel.app/demo">Live demo</a> -->
 <img width="600" src="https://github.com/nikoletaxvs/merio/raw/main/docs/dashboard.png" alt="Merio owner dashboard"/>
+<img width="400" src="https://github.com/nikoletaxvs/merio/blob/main/docs/pay-page.png" alt="Merio owner dashboard"/>
 
 <h4>Article Report Maker (Chrome extension)</h4>
 <p>I volunteered to build the <a href="https://chrome.google.com/webstore/detail/eirinika-report-maker/hlfohnplnkgbnpmipcmdafaddlddcgcm" target="_blank">Article Report Maker</a> Chrome extension for a team of professional journalists.</p>
