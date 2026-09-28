@@ -26,7 +26,7 @@
 <p>My family splits a Spotify plan, so I built a small app to keep track of who has paid this month. Each member gets a monthly payment, a personal link to mark it paid, and email reminders until they do.</p>
 <ul>
   <li>Next.js 16 (App Router, server actions), React 19, TypeScript, Tailwind CSS, Postgres with Drizzle, deployed on Vercel with scheduled cron jobs.</li>
-  <li>Unit tests and CI with GitHub Actions. Testing the billing-period date logic caught a real month-end billing bug.</li>
+  <li>Unit tests and CI with GitHub Actions.</li>
   <li>Public demo runs as a separate deployment with sample data, nightly resets and email disabled, so the real data stays private.</li>
 </ul>
 <!-- TODO: add the demo link once it has a permanent domain, e.g. <a href="https://merio-demo.vercel.app/demo">Live demo</a> -->
