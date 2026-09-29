@@ -29,9 +29,10 @@
   <li>Unit tests and CI with GitHub Actions.</li>
   <li>Public demo runs as a separate deployment with sample data, nightly resets and email disabled, so the real data stays private.</li>
 </ul>
+
 <!-- TODO: add the demo link once it has a permanent domain, e.g. <a href="https://merio-demo.vercel.app/demo">Live demo</a> -->
-<img width="600" src="https://github.com/nikoletaxvs/merio/raw/main/docs/dashboard.png" alt="Merio owner dashboard"/>
-<img width="400" src="https://github.com/nikoletaxvs/merio/blob/main/docs/pay-page.png" alt="Merio owner dashboard"/>
+<img width="600" src="https://github.com/user-attachments/assets/8eefc35d-47ba-4fd6-ace7-6dcf9b52cbf3" alt="Merio owner dashboard"/>
+<img width="400" src="https://github.com/nikoletaxvs/merio/raw/main/docs/pay-page.png" alt="Merio owner dashboard"/>
 
 <h4>Article Report Maker (Chrome extension)</h4>
 <p>I volunteered to build the <a href="https://chrome.google.com/webstore/detail/eirinika-report-maker/hlfohnplnkgbnpmipcmdafaddlddcgcm" target="_blank">Article Report Maker</a> Chrome extension for a team of professional journalists.</p>
